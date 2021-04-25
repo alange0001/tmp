@@ -1,0 +1,445 @@
+Adding local address: 172.31.10.26
+Adding local address: fe80::86:bff:fec9:42f2
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: root@pts/0/1909/0	1.36875	0.7375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	2.98809	267.412
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	9.51562	913.72
+sshd: root@pts/0/1909/0	0.138477	0.167187
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	15.1184	1479.94
+sshd: root@pts/0/1909/0	1.2666	0.619922
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	29.7855	3349.82
+sshd: root@pts/0/1909/0	0.0542969	0.071875
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	25.0383	3066.34
+sshd: root@pts/0/1909/0	1.02891	0.605859
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.6297	1814.39
+sshd: root@pts/0/1909/0	0.259766	0.0648438
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.3039	1927.82
+sshd: root@pts/0/1909/0	0.365039	0.277539
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.0398	1867.7
+sshd: root@pts/0/1909/0	0.102539	0.13125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	24.4781	2453.32
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.4402	1852.13
+sshd: root@pts/0/1909/0	0.682813	0.359961
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.577	1748.95
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	15.6234	1828.83
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	23.1	2340.6
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	35.8914	4330.37
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	28.5352	3895.67
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.6133	2566.84
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.8035	2074.44
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.4227	1976.71
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.077	1710.1
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.2789	1834.24
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.8672	2217.75
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.8012	2522.48
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.5055	2455.67
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.5504	1928.91
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.1629	1812.67
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	20.4793	2074.78
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	20.4949	1949.92
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	16.2668	1746.22
+sshd: root@pts/0/1909/0	0.0367187	0.0511719
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	13.602	1304.98
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	15.327	1322.76
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.775	2422.13
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	27.1266	2959.75
+sshd: root@pts/0/1909/0	0.0488281	0.0820312
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	26.1387	3007.59
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	25.0336	2838.02
+sshd: root@pts/0/1909/0	0.03125	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.3652	2558.58
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.1273	2461.75
+sshd: root@pts/0/1909/0	0.03125	0.0230469
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	23.9766	2584.33
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	27.3328	2724.93
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	32.4363	3349.45
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.5043	2760.35
+sshd: root@pts/0/1909/0	0.432617	0.24668
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.7707	2151.31
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.7133	2355.26
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	29.7621	3112.46
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	27.0832	2846.05
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	33.9914	3780.64
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.8609	2071.99
+sshd: root@pts/0/1909/0	0.110547	0.117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	26.7938	2743.06
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	23.6016	2705.99
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	25.2715	2830.57
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.0516	2045.24
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.8281	2334.65
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	20.0906	1961.1
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	26.6613	2969.25
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	35.9371	4989.13
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	16.9793	2040.2
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	16.5559	1832.05
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	24.1594	2417.89
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.3344	1813.48
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	15.532	1792.44
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	16.3992	1775.22
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	15.7332	1526.39
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	16.9512	1694.56
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	20.7352	2223.54
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.3371	2705.69
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	26.1023	3159.57
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	23.0008	2510.68
+172.31.10.26:443-45.146.164.211:48729/0/0	0.0105469	0.0210938
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.3523	2350.88
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.9805	2490.08
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	30.1934	3497.83
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	32.6156	3964.82
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.934	2806.52
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.4469	1705.51
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.9762	1784.21
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	24.7301	2656.01
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	23.2383	2871.66
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.8699	2478.13
+172.31.10.26:443-45.146.164.211:48729/0/0	0	0
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.2563	2018.83
+sshd: root@pts/0/1909/0	0.379102	0.304688
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	19.173	2131.81
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	18.3375	1961.19
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	22.2797	2230.66
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	25.9535	2603.94
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	40.1437	4530.7
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	17.9195	2510.44
+sshd: root@pts/0/1909/0	0.0183594	0.0359375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/2192/0	21.5277	2148.01
+sshd: root@pts/0/1909/0	0	0
+unknown TCP/0/0	0	0
+
+Experiment parameters:
+pid_wget=2192
+stats_interval=5
