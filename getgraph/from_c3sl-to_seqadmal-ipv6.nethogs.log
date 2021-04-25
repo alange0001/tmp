@@ -1,0 +1,462 @@
+Adding local address: 172.25.2.250
+Adding local address: 2804:d59:5102:2502:2c6f:8af6:2046:d00c
+Adding local address: fe80::c435:ff80:c2d8:35d6
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+172.25.2.250:42812-200.236.31.3:80/0/0	0.16875	5.8625
+sshd: alange@pts/0/667047/1000	0.149219	0.0257812
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	47.7758	1898.57
+sshd: alange@pts/0/667047/1000	0	0
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	28.8051	1069.01
+sshd: alange@pts/0/667047/1000	0	0
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	22.4898	821.841
+sshd: alange@pts/0/667047/1000	0	0
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.8609	909.595
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	23.209	858.764
+sshd: alange@pts/0/667047/1000	0	0
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.4566	681.472
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.0684	941.988
+sshd: alange@pts/0/667047/1000	0	0
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	27.1684	995.988
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	20.1141	741.853
+sshd: alange@pts/0/667047/1000	0	0
+172.25.2.250:42812-200.236.31.3:80/0/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.1039	772.23
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.7379	911.809
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	23.048	861.157
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	28.4152	1062.19
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	17.9047	673.216
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.3434	933.588
+/usr/sbin/NetworkManager/761/0	0.0958984	0.0949219
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.3641	678.388
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.0719	657.725
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	31.2738	1162.45
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	14.977	550.912
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.9996	925.257
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	26.3906	984.661
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	27.1434	994.711
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	41.0285	1497.45
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	22.1688	823.3
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.0418	663.246
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	20.757	766.545
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	12.8551	468.125
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	11.1785	408.889
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.4594	793.037
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	16.6742	607.737
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.4387	778.178
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	28.2309	1043.6
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	26.8742	976.213
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.0145	923.705
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.793	803.081
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	13.2516	491.317
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.7566	802.221
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	19.1512	700.542
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	27.2773	1003.87
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	29.5414	1084.33
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.7699	802.889
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.5641	807.432
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	22.8961	843.206
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.9277	957.395
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	23.3059	848.475
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.85	921.473
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.184	928.248
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	20.7125	760.926
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	19.3797	726.873
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.0762	663.592
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	20.5125	757.095
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.0965	676.16
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	12.4883	453.827
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	27.5918	1012.73
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	18.2961	676.734
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	14.9906	562.532
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.7824	908.137
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	27.1094	995.87
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	28.3664	1047.15
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.9508	915.929
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.7141	797.389
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	22.4652	828.471
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	28.7668	1050.39
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	26.9555	990.971
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	20.2227	749.253
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	26.584	970.067
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	22.9051	847.366
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	26.6297	967.869
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	26.9625	983.058
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.6633	946.753
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.2918	898.211
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.7687	808.03
+sshd: alange@pts/0/667047/1000	0.224219	0.137109
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	27.3137	1010.85
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	20.4117	735.25
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.4922	942.173
+/usr/sbin/NetworkManager/761/0	0.0289063	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	29.6832	1093.56
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+/usr/sbin/NetworkManager/761/0	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.9527	962.576
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	15.1254	555.098
+/usr/sbin/NetworkManager/761/0	0.112891	0.0949219
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	24.4164	893.409
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	17.7012	659.392
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	21.9699	807.933
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	23.8277	872.111
+sshd: alange@pts/0/667047/1000	0.0199219	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	29.3969	1090.86
+/usr/sbin/NetworkManager/761/0	0	0
+sshd: alange@pts/0/667047/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/676243/0	25.5551	942.146
+sshd: alange@pts/0/667047/1000	0.0183594	0.0328125
+/usr/sbin/NetworkManager/761/0	0	0
+unknown TCP/0/0	0	0
