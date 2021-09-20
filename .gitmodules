@@ -1,7 +1,0 @@
-[submodule "testsub"]
-	path = testsub
-	url = https://github.com/alange0001/alutils.git
-[submodule "testsub2"]
-	path = testsub2
-	url = https://github.com/alange0001/alutils.git
-	branch = master
